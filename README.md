@@ -1,5 +1,12 @@
-# G51APR POP3 Server #
-For a University of Nottingham module I develop a POP3 email server which translated POP3 commands into server calls.
+## A Java Email Server
+
+For a University of Nottingham module I developed an email server to translate POP3 commands into server calls.
+
+Date written: 2013
+
+
+### Overview
+
 The program opens up a listen socket so that POP3 clients can connect to, in order to access email. 
 
 Details of the POP3 protocol can be found at http://www.apps.ietf.org/rfc/rfc1939.html
